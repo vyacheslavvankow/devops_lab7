@@ -22,3 +22,11 @@
 Результат работы выложить в отдельную репо на Github и прикрепить ссылку в качестве ответа.
 
 ```
+
+```
+![image](https://github.com/user-attachments/assets/1afb22dd-050e-423c-a796-0f5fba69e793)
+```
+
+```
+![image](https://github.com/user-attachments/assets/776c8548-87ef-429b-bd6f-c9ab9b7847b2)
+```
